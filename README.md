@@ -1,14 +1,6 @@
-# X-Mentor - Where Heroes Learn
+# SphereEDU
 
-X-Mentor is an e-Learning platform which not only tries to connect students and teachers, but also ideas, emotions and knowledge. We want people to progress and learn how to use their powers, because everyone has something to teach and everyone has something to learn, but everyone has a power and remember, with great power comes great responsability.
-
-## Screenshots
-
-![Home Page](https://github.com/serdeliverance/x-mentor/blob/develop/screenshots/HomePage.png?raw=true)
-
-![Course List Page](https://github.com/serdeliverance/x-mentor/blob/develop/screenshots/CourseListPage.png?raw=true)
-
-![Course Page](https://github.com/serdeliverance/x-mentor/blob/develop/screenshots/CoursePage.png?raw=true)
+SphereEDU is an e-Learning platform which not only tries to connect students and teachers, but also ideas, emotions and knowledge. We want people to progress and learn how to use their powers, because everyone has something to teach and everyone has something to learn, but everyone has a power and remember, with great power comes great responsability.
 
 ## Table of Contents
 
